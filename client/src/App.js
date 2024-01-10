@@ -27,7 +27,7 @@ function App() {
     fileInputRef.current.click();
   };
 
-  console.log(file);
+  // console.log(file);
 
   return (
     <div className="container">
